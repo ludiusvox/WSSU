@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=rp\ n\ cs\ ra\ ns\ y
+comment0.target=DecisionStatements(double,\ java.lang.String,\ double,\ double,\ double,\ double)
+comment1.params=
+comment1.target=double\ getCurrentsalary()
+comment1.text=\r\n\ method\ to\ get\ the\ new\ salary\r\n
+comment2.params=cs\ rp
+comment2.target=double\ getRaiseamount(double,\ double)
+comment2.text=\r\n\ method\ to\ calculate\ raise,\ amount,\ etc.\r\n
+comment3.params=ns
+comment3.target=double\ getNewsalary(double)
+comment3.text=\r\n\ Method\ to\ calculate\ new\ Salary\r\n
+numComments=4

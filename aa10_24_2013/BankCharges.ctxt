@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=b\ c
+comment0.target=BankCharges(double,\ int)
+comment1.params=c
+comment1.target=void\ setChecksWritten(int)
+comment1.text=\r\n\ \ \ \ \ \ The\ setChecksWritten\ method\ sets\ the\r\n\ \ \ \ \ \ number\ of\ checks\ written\ for\ a\ month.\r\n
+comment2.params=b
+comment2.target=void\ setBalance(double)
+comment2.text=\r\n\ \ \ \ \ \ The\ setBalance\ method\ sets\ the\ account's\ balance.\r\n\ \ \ \ \ \r\n
+comment3.params=
+comment3.target=int\ getChecksWritten()
+comment3.text=\r\n\ \ \ \ \ \ The\ getChecksWritten\ method\ returns\r\n\ \ \ \ \ \ the\ number\ of\ checks\ written\ for\ a\ month.\r\n
+comment4.params=
+comment4.target=double\ getBalance()
+comment4.text=\r\n\ \ \ \ \ \ The\ getBalance\ method\ returns\ the\r\n\ \ \ \ \ \ account\ balance.\r\n
+comment5.params=
+comment5.target=double\ getFees()
+comment5.text=\r\n\ \ \ \ \ \ The\ getFees\ method\ returns\ the\ amount\r\n\ \ \ \ \ \ of\ monthly\ fees\ for\ the\ account.\r\n
+numComments=6

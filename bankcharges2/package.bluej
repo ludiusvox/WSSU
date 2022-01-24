@@ -1,0 +1,21 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=245
+package.editor.y=187
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=700
+target1.editor.width=883
+target1.editor.x=318
+target1.editor.y=45
+target1.height=50
+target1.name=BankCharges2
+target1.naviview.expanded=false
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=110
+target1.x=140
+target1.y=80

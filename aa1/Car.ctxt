@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=y\ m
+comment0.target=Car(int,\ java.lang.String)
+comment0.text=\r\n\ \ \ \ The\ constructor\ initializes\ the\ car's\r\n\ \ \ \ year\ model\ and\ make.\r\n\ \ \ \ @param\ y\ The\ car's\ year\ model.\r\n\ \ \ \ @param\ m\ The\ car's\ make.\r\n
+comment1.params=
+comment1.target=int\ getYearModel()
+comment1.text=\r\n\ \ \ \ The\ getYearModel\ method\ returns\ the\ car's\r\n\ \ \ \ year\ model.\r\n\ \ \ \ @return\ The\ car's\ year\ model.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getMake()
+comment2.text=\r\n\ \ \ \ The\ getMake\ method\ returns\ the\ car's\ make.\r\n\ \ \ \ @return\ The\ car's\ make.\r\n
+comment3.params=
+comment3.target=int\ getSpeed()
+comment3.text=\r\n\ \ \ \ The\ getSpeed\ method\ returns\ the\ car's\r\n\ \ \ \ current\ speed.\r\n\ \ \ \ @return\ The\ car's\ current\ speed.\r\n
+comment4.params=
+comment4.target=void\ accelerate()
+comment4.text=\r\n\ \ \ \ The\ accelerate\ method\ increases\ the\ car's\r\n\ \ \ \ speed\ by\ 5\ MPH.\r\n
+comment5.params=
+comment5.target=void\ brake()
+comment5.text=\r\n\ \ \ \ The\ brake\ method\ decreases\ the\ car's\r\n\ \ \ \ speed\ by\ 5\ MPH.\r\n
+numComments=6

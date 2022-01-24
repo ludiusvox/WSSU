@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=TestScoreReader(java.lang.String)
+comment0.text=\r\n\ The\ constructor\ opens\ a\ file\ to\ read\r\n\ the\ grades\ from.\r\n
+comment1.params=
+comment1.target=boolean\ readNextLine()
+comment1.text=\r\n\ The\ readNextLine\ method\ reads\ the\ next\ line\r\n\ from\ the\ file.\r\n
+comment2.params=
+comment2.target=double\ getAverage()
+comment2.text=\r\n\ The\ getAverage\ method\ calculates\ the\ average\ of\ the\ last\ set\ of\ test\ scores\ read\ from\ the\ file.\r\n\ \r\n\ \r\n
+comment3.params=
+comment3.target=void\ close()
+comment3.text=\r\n\ The\ close\ method\ closes\ the\ file.\r\n
+numComments=4

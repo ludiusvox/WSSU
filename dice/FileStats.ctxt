@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=FileStats(java.lang.String)
+comment1.params=
+comment1.target=double\ getVariance()
+comment2.params=
+comment2.target=double\ getMean()
+comment3.params=
+comment3.target=double\ getStdDev()
+comment4.params=filename
+comment4.target=double\ calculateMean(java.lang.String)
+comment5.params=filename
+comment5.target=double\ calculateVariance(java.lang.String)
+comment6.params=filename
+comment6.target=double\ calculateStdDev(java.lang.String)
+numComments=7

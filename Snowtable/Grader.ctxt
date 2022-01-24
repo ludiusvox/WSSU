@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=scoreArray
+comment0.target=Grader(double[])
+comment0.text=\r\n\ The\ constructor\ accepts\ an\ array\ of\ test\ scores\ as\ an\ arguement.\r\n
+comment1.params=
+comment1.target=double\ getHighestScore()
+comment2.params=
+comment2.target=double\ getLowestScore()
+comment2.text=\r\n\ The\ getLowestScore\r\n
+comment3.params=
+comment3.target=double\ getAverage()
+comment3.text=\r\n\ The\ getAverage\ method\ returns\ the\ average\ of\ the\ test\ scores\ with\ the\ lowest\ score\ dropped.\r\n
+numComments=4

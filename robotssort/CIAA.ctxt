@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=num_schools
+comment0.target=CIAA(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CIAA\r\n
+comment1.params=studentname\ index
+comment1.target=void\ setStudent(java.lang.String,\ int)
+comment2.params=categorynumber\ index
+comment2.target=void\ setCategory(int,\ int)
+comment3.params=round1number\ index
+comment3.target=void\ setRound1(int,\ int)
+comment4.params=round2number\ index
+comment4.target=void\ setRound2(int,\ int)
+comment5.params=round3number\ index
+comment5.target=void\ setRound3(int,\ int)
+comment6.params=
+comment6.target=double[]\ getAverage()
+comment7.params=
+comment7.target=boolean\ readNextLine()
+comment8.params=
+comment8.target=void\ close()
+comment8.text=\r\n\ The\ close\ method\ closes\ the\ file.\r\n
+numComments=9

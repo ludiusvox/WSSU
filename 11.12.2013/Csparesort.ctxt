@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=rt\ s\ mp\ d\ rp
+comment0.target=Csparesort(char,\ double,\ double,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Csparesort\r\n
+comment1.params=rt\ rp
+comment1.target=double\ getRoomprice(char,\ double)
+comment1.text=\r\n\ Method\ to\ get\ the\ room\ price\ dependant\ on\ the\ type\ of\ room\r\n\ \r\n\ @param\ \ (D)\ ||\ (E)\r\n\ @return\ \ \ \ \ roomprice\ (rp)\ 135\ ||\ 200\ \r\n
+comment2.params=mp
+comment2.target=double\ getMealplan(double)
+comment2.text=\r\n\ Healthy\ Choice\ meal\ plan\r\n\ \r\n
+comment3.params=s
+comment3.target=double\ getSpa(double)
+comment3.text=\r\n\ Spa\ choice\ method\r\n
+numComments=4

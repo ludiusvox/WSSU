@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=pb\ ac\ i\ nb
+comment0.target=BankCharges2(double,\ double,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BankCharges2\r\n
+comment1.params=pb
+comment1.target=void\ setPrevbalance(double)
+comment1.text=\r\n\ \ the\ setPrevbalance\ method\ sets\ the\ accounts\ balance\ \r\n
+comment2.params=
+comment2.target=double\ getCharges()
+comment2.text=\r\n\ The\ Add\ charges\ method\ returns\ the\ of\ added\ charges\ for\ the\ account.\r\n
+comment3.params=
+comment3.target=double\ getNewbalance()
+comment3.text=\r\n\ get\ the\ new\ balance\r\n\ \r\n
+comment4.params=
+comment4.target=double\ getInterest()
+comment4.text=\ \r\n\ get\ the\ interest\r\n
+numComments=5

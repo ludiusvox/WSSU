@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=array\ value
+comment0.target=int\ sequentialSearch(int[],\ int)
+comment0.text=\r\n\ The\ seuqntialSearch\ method\ searches\ array\ for\ value.\ \ If\ value\ is\ found\ in\ array,\ the\ element's\ subscript\r\n\ is\ returned.\ \ Otherwise,\ -1\ is\ returned\r\n
+numComments=1
